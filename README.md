@@ -40,6 +40,9 @@ python环境，py3.6+
 部分邮箱需要用授权码登录
 
 ##### 目录示例
+<div align="center">
+  <img src="readme_pic/catalog.png">
+</div>
 ![](readme_pic/catalog.png)
 ![](readme_pic/emaillogdir.png)
 ![](readme_pic/normal.png)
