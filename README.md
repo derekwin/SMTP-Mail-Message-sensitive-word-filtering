@@ -43,7 +43,12 @@ python环境，py3.6+
 <div align="center">
   <img src="readme_pic/catalog.png">
 </div>
-![](readme_pic/catalog.png)
-![](readme_pic/emaillogdir.png)
-![](readme_pic/normal.png)
-![](readme_pic/unnormal.png)
+<div align="center">
+  <img src="readme_pic/emaillogdir.png">
+</div>
+<div align="center">
+  <img src="readme_pic/normal.png">
+</div>
+<div align="center">
+  <img src="(readme_pic/unnormal.png">
+</div>
