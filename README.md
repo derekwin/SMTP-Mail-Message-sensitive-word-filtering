@@ -50,5 +50,5 @@ python环境，py3.6+
   <img src="readme_pic/normal.png">
 </div>
 <div align="center">
-  <img src="(readme_pic/unnormal.png">
+  <img src="readme_pic/unnormal.png">
 </div>
